@@ -1,4 +1,4 @@
-# 🏦 Bank Management System (C++ with Qt GUI)
+# Bank Management System (C++ with Qt GUI)
 
 This project is a **bank management system** implemented in **C++** using the **Qt GUI framework**, as part of an Advanced Programming course. It simulates the basic banking operations and user account management in a simple, object-oriented manner with a graphical user interface.
 
@@ -8,21 +8,21 @@ This project is a **bank management system** implemented in **C++** using the **
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 The aim of this project is to simulate a **real-world banking system** and implement its functionalities using core C++ programming concepts like object-oriented programming (OOP) and user input validation. The system models real-life banking components such as users, accounts, and transactions.
 
 ---
 
-## 💡 Features
+## Features
 
-### 👤 User Account Management
+### User Account Management
 - **Sign up and log in** with a unique username and password
 - Collect and store user information:
   - First name, last name, national ID, age
   - Unique credentials (username and password)
 
-### 🏦 Bank Account Management
+### Bank Account Management
 - Create up to **5 bank accounts** per user
 - Choose account type: **Savings**, **Current**, or **Loan**
 - Randomly generate:
@@ -37,7 +37,7 @@ The aim of this project is to simulate a **real-world banking system** and imple
   - **Expiration date**: 3 years from creation
   - **Initial balance**: must be at least 50,000 Toman
 
-### 💳 Card-to-Card Transfers
+### Card-to-Card Transfers
 - Transfer funds by entering a valid **card number**
 - Display recipient's **name and surname** before confirming
 - Validate:
@@ -52,7 +52,7 @@ The aim of this project is to simulate a **real-world banking system** and imple
 
 ---
 
-## 🛠 Technical Details
+## Technical Details
 
 - Implemented in **C++**
 - Uses **Qt framework** for GUI
@@ -61,7 +61,7 @@ The aim of this project is to simulate a **real-world banking system** and imple
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 /BankProject
@@ -88,7 +88,7 @@ The aim of this project is to simulate a **real-world banking system** and imple
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 - **Qt Creator IDE** (used to develop the entire project)
 - **Qt libraries and dependencies** (to build and run correctly)
