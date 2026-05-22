@@ -17,10 +17,10 @@ The aim of this project is to simulate a **real-world banking system** and imple
 ## Features
 
 ### User Account Management
-- **Sign up and log in** with a unique username and password
+- Sign up and log in
 - Collect and store user information:
   - First name, last name, national ID, age
-  - Unique credentials (username and password)
+  - Unique username and password
 
 ### Bank Account Management
 - Create up to **5 bank accounts** per user
